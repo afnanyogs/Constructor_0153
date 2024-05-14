@@ -5,6 +5,7 @@ class Mahasiswa {
 public:
 	static int nim;
 	int id;
+	string nama;
 }
 int main() {
 
