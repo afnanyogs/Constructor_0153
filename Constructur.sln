@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Constructur", "Constructur\Constructur.vcxproj", "{4EC61F06-2D83-4D18-BF3E-A6EDDC302EEF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chainfunction", "chainfunction\chainfunction.vcxproj", "{DFE9C658-9CC3-445D-B36A-D6A0EE07EDF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{4EC61F06-2D83-4D18-BF3E-A6EDDC302EEF}.Release|x64.Build.0 = Release|x64
 		{4EC61F06-2D83-4D18-BF3E-A6EDDC302EEF}.Release|x86.ActiveCfg = Release|Win32
 		{4EC61F06-2D83-4D18-BF3E-A6EDDC302EEF}.Release|x86.Build.0 = Release|Win32
+		{DFE9C658-9CC3-445D-B36A-D6A0EE07EDF8}.Debug|x64.ActiveCfg = Debug|x64
+		{DFE9C658-9CC3-445D-B36A-D6A0EE07EDF8}.Debug|x64.Build.0 = Debug|x64
+		{DFE9C658-9CC3-445D-B36A-D6A0EE07EDF8}.Debug|x86.ActiveCfg = Debug|Win32
+		{DFE9C658-9CC3-445D-B36A-D6A0EE07EDF8}.Debug|x86.Build.0 = Debug|Win32
+		{DFE9C658-9CC3-445D-B36A-D6A0EE07EDF8}.Release|x64.ActiveCfg = Release|x64
+		{DFE9C658-9CC3-445D-B36A-D6A0EE07EDF8}.Release|x64.Build.0 = Release|x64
+		{DFE9C658-9CC3-445D-B36A-D6A0EE07EDF8}.Release|x86.ActiveCfg = Release|Win32
+		{DFE9C658-9CC3-445D-B36A-D6A0EE07EDF8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
